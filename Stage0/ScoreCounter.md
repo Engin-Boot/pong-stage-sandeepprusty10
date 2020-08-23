@@ -13,4 +13,3 @@ This module counts and stores the scores of the two players.
   When either player scores
 
   Then increment the score of corresponding player by 1
-
