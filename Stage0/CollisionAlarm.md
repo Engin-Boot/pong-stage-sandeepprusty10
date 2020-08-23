@@ -6,7 +6,7 @@ This module notifies when the ball collides with either of the four boundary wal
 
 ## Acceptance Criteria
 
-### Scenario: Notify when a collision occurs 
+### Scenario: Notify when a collision occurs
 
   Given the position of the ball
 
