@@ -12,4 +12,4 @@ This module notifies when the ball collides with either of the four boundary wal
 
   When one of the two dimensions matches with one of the four boundary wall position
 
-  Then notify that a collision occured
+  Then give notification of a collision
