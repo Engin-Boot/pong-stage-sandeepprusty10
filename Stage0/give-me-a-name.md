@@ -1,17 +1,15 @@
-# -give-this-module-a-name
+# DeclareWinner()
 
 ## Feature
 
-What part of the game does this module deliver?
+This module displays the winner name and resets the game.
 
 ## Acceptance Criteria
 
-### Scenario: -describe-a-scenario-of-this-module
+### Scenario: Display the winner name
 
-  Given -give-initial-values-and-conditions
+  Given the updated scores of the two players
 
-  When -event-happens
+  When the score of either player reaches 10
 
-  Then -module-does-this
-
-### -add-scenario-if-needed
+  Then display the player name who scored 10 and reset game
