@@ -2,7 +2,7 @@
 
 ## Feature
 
-This module takes initial score, starting time, initial velocity and initial position as input.
+This module takes starting time,initial score,velocity and position as input.
 
 ## Acceptance Criteria
 
