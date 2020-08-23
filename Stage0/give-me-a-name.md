@@ -1,4 +1,4 @@
-# DeclareWinner
+# Declare Winner
 
 ## Feature
 
